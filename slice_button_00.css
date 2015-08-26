@@ -1,0 +1,5 @@
+.button {
+	border-style: solid;
+	border-width: 3px 4px 4px 3px;
+	border-image: url(slice_button_00.png) 3 4 4 3 fill stretch;
+}
